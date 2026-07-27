@@ -90,4 +90,4 @@ Puedes ejecutar:
 
 git status
 
-Si todo salió bien, después del git push tus cambios aparecerán en tu repositorio de GitHub.
+Si todo salió bien, después del git push tus cambios aparecerán en tu repositorio de GitHub...
